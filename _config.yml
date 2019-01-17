@@ -1,4 +1,4 @@
-title: Urban Template
+title: audiovision
 url: "http://vsn.party"
 baseurl:
 google_analytics_key:
@@ -6,7 +6,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: coole partys für coole mnenschen
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: audiovsn
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://soundcloud.com/audiovsn
 
 timezone: Etc/UTC
 
@@ -94,8 +94,6 @@ social_icons:
   - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - RSS
