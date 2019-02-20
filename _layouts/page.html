@@ -1,17 +1,17 @@
----
-layout: default
----
-<section class="hero diagonal">
-	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
-		{% if page.heading %}
-			<h2>{{ page.heading }}</h2>
-		{% elsif page.title %}
-			<h2>{{ page.title }}</h2>
-		{% endif %}
-		{% if page.subtitle %}
-			<p class="subtext">{{ page.subtitle }}</p>
-		{% endif %}
-	</div>
-</section>
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-{{ content }}
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} {{ content }} {% include footer.html %}
+
+</body>
+
+</html>

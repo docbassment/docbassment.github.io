@@ -1,95 +1,24 @@
-title: audiovision
-url: "http://vsn.party"
-baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
+# site settings
+title: audiovsn
+subtitle: Events in und um Darmstadt
+email: youremailaddress@gmail.com
+description: Wir machen kuschelige Events in und um Darmstadt. Auf unseren Parties hört ihr frische Musik, handgefertigte Visuals und 3D Audio. Tighte Beats direkt aus der Flasche. Verkauf von Musik und Wasser.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 
-# Default description in social shares for the jekyll-seo-tag gem
-description: coole partys für coole mnenschen
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+# social settings
+500px_url:
+facebook_url: https://facebook.com/audiovsn
+gitlab_url: https://gitlab.com/u/andrewbanchich
+instagram_url: https://instagram.com/audiovsn
 
-# Social details for the jekyll-seo-tag gem
-social:
-  name: audiovsn
-  links:
-    - https://soundcloud.com/audiovsn
 
-timezone: Etc/UTC
+# build settings
+markdown: kramdown
 
-collections:
-  staff_members:
-    output: false
-  clients:
-    output: true
-
-paginate: 10
-paginate_path: "/blog/:num/"
-permalink: pretty
-
-jekyll-archives:
-  enabled:
-    - "categories"
-
-plugins:
-  - "jekyll-feed"
-  - "jekyll-seo-tag"
-  - "jekyll-paginate"
-  - "jekyll-archives"
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 960
-          height: 2000
-  - scope:
-      path: ""
-      type: "clients"
-    values:
-      layout: "client"
-      _options:
-        image_path:
-          width: 2000
-          height: 2000
-  - scope:
-      path: ""
-      type: "staff_members"
-    values:
-      _options:
-        image_path:
-          width: 600
-          height: 600
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: "index.html"
-      type: "pages"
-    values:
-      layout: "default"
-
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Instagram
-  - YouTube
+sass:
+  style: compressed
