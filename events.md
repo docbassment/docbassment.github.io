@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: landing
+layout: post
 description: was wir so machen
 image: assets/images/pic07.jpg
 nav-menu: true

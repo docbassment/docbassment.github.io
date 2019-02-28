@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: food
 description: #
 nav-menu: true

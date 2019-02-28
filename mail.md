@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: connect
 description: #
 image: assets/images/pic11.jpg
