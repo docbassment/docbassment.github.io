@@ -5,4 +5,4 @@ description: #
 nav-menu: true
 ---
 
-flawafel + tost
+## Snacks sind auch häufig mit am Start ;)
