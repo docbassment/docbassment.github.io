@@ -1,11 +1,8 @@
 ---
-layout: home
-title: Home
-landing-title: 'audiovsn'
-description: null
-image: null
-author: null
-show_tile: false
+layout: page
+title: food
+description: #
+nav-menu: true
 ---
 
-wo ist dieser text (index.md)
+flawafel + tost
