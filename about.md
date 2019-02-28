@@ -4,8 +4,5 @@ title:     About
 permalink: /about/
 ---
 
-Vida is a minimalist jekyll theme.
-
-- Author: Alex Sun
-- Email:  syaningv@gmail.com
-- Github: [https://github.com/syaning/vida](https://github.com/syaning/vida)
+Wir sind audiovsn, ein bunt gemischtes Kollektiv aus und um Darmstadt.
+Wir machen krass Soundsystem, Deko, Visuals und mehr
