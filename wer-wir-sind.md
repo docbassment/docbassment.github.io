@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: wer sind wir
 description: #
 image: assets/images/pic11.jpg
