@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sticker Hall of Fame
 nav-menu: true
 ---
