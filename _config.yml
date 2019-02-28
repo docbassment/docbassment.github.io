@@ -1,7 +1,7 @@
 # site settings
 title: audiovsn
 subtitle: Events in und um Darmstadt
-email: youremailaddress@gmail.com
+email: audiovision (at) posteo.de
 description: Wir machen kuschelige Events in und um Darmstadt. Auf unseren Parties hört ihr frische Musik, handgefertigte Visuals und 3D Audio. Tighte Beats direkt aus der Flasche. Verkauf von Musik und Wasser.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
