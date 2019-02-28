@@ -37,7 +37,12 @@
 			padding: 0 1.5em;
 
 			strong {
-				color: _palette(bg-alt);
+			    @include vendor('transition', (
+					'background-color #{_duration(transition)} ease-in-out',
+					'color #{_duration(transition)} ease-in-out'
+				));
+				//background-color: _palette(fg-bold);
+				color: _palette(fg);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
