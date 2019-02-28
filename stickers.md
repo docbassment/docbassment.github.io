@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Sticker Hall of Fame
 nav-menu: true
 ---
 
