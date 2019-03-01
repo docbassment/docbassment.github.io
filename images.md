@@ -6,3 +6,4 @@ permalink: /pics/
 
 ![](images/vsn_jungle_artsy.jpg)
 ![](images/cassiopeia-stripe.jpg)
+![](images/vsn-pfungstadt.jpg)
