@@ -14,12 +14,13 @@ $link-color:   #0074d9;
 $meta-color:   #a0a0a0;
 $border-color: #ddd;
 
-//@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import "color";
-@import "base";
-@import "layout";
-@import "syntax";
 
 .site-title {
     font-weight: 700;
 }
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import "color";
+@import "base";
+@import "layout";
+@import "syntax";
