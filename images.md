@@ -4,4 +4,5 @@ title:     Bilder
 permalink: /pics/
 ---
 
-![](images/image.jpg)
+![](images/vsn_jungle_artsy.jpg)
+![](images/cassio-stripe.jpg)
