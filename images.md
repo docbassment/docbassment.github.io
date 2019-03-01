@@ -1,7 +1,7 @@
 ---
 layout:    page
 title:     Bilder
-permalink: /about/
+permalink: /pics/
 ---
 
 ![](images/image.jpg)
