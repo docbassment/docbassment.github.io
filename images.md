@@ -5,4 +5,4 @@ permalink: /pics/
 ---
 
 ![](images/vsn_jungle_artsy.jpg)
-![](images/cassio-stripe.jpg)
+![](images/cassiopeia-stripe.jpg)
