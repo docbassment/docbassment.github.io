@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     Unsere Mailingliste
+title:
 permalink: /connect/
 ---
 
