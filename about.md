@@ -4,5 +4,19 @@ title:     Über uns
 permalink: /about/
 ---
 
-Wir sind audiovsn, ein bunt gemischtes Kollektiv aus und um Darmstadt.
-Wir machen krass Soundsystem, Deko, Visuals und mehr
+Wir machen kuschelige Events in und um Darmstadt. Auf unseren Parties hört ihr frische Musik, handgefertigte Visuals und 3D Audio.
+Tighte Beats direkt aus der Flasche.
+Verkauf von Musik und Wasser.
+
+Ihr findet uns bei Cassiopeia, Noise Test, vsn & mehr
+
+Unsere Musiker:
+* <a href="https://soundcloud.com/lumsdnb">lums</a>
+* <a href="https://soundcloud.com/pan_tau">Pan Tau</a>
+* <a href="https://soundcloud.com/feezo_betrugo">Feezo</a>
+* <a href="https://soundcloud.com/palindrum_pnd">Palindrum</a>
+* <a href="https://soundcloud.com/klangsuppe">klangsuppe</a>
+
+Außerdem legen wir immer viel Wert auf Deko.
+
+Wir versuchen auch auf den meisten Veranstaltungen Essen anzubieten, unser Essensteam zaubert entweder Falafel oder Tostas.
