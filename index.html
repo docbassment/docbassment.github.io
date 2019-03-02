@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="home">
+  <!--
+  <h1 class="post-header">Next Up</h3>
+  <span class="posts">Hier kommt das nächste Poster hin.</span>
+  --!>
+  <h1>Events</h3>
     <table class="posts">
         {% for post in site.posts %}
         <tr><td><span>{{ post.date | date: site.date_format }}</span></td><td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</td></a></tr>

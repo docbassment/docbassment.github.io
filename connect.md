@@ -3,13 +3,19 @@ layout:    page
 title:     connect
 permalink: /connect/
 ---
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<h1>Social</h1>
+<div style="font-size: 2.73em;">
+  <a href="https://soundcloud.com/audiovsn">
+    <i class="fab fa-soundcloud"></i>
+  </a>
+  <a href="https://instagram.com/audiovsn">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="https://facebook.com/audiovsn">
+    <i class="fab fa-facebook"></i>
+  </a>
+</div>
+<h1>Newsletter</h1>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <!--<style type="text/css">

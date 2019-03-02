@@ -3,20 +3,23 @@ layout:    page
 title:     Über uns
 permalink: /about/
 ---
-
-Wir machen kuschelige Events in und um Darmstadt. Auf unseren Parties hört ihr frische Musik, handgefertigte Visuals und 3D Audio.
-Tighte Beats direkt aus der Flasche.
-Verkauf von Musik und Wasser.
+# Namaste, liebe Freunde
+Wir machen und unterstützen kuschelige Events in und um Darmstadt.
+Raumklang, Gestaltung und Essen vereint sich auf unseren Partys zu einem kollektiven Gesamterlebnis, was jedes Mal einzigartig ist.
 
 Ihr findet uns bei Cassiopeia, Noise Test, vsn & mehr
 
-Unsere Artists:
+# Unsere Artists:
 * <a href="https://soundcloud.com/lumsdnb">lums</a>
 * <a href="https://soundcloud.com/pan_tau">Pan Tau</a>
 * <a href="https://soundcloud.com/feezo_betrugo">Feezo</a>
 * <a href="https://soundcloud.com/palindrum_pnd">Palindrum</a>
 * <a href="https://soundcloud.com/klangsuppe">Klangsuppe</a>
 
-Außerdem legen wir immer viel Wert auf Deko.
+# Deko & Licht
+Vera macht Deko und Magic. Folgt ihr alle auf <a href="https://www.instagram.com/vellag96/">Instagram</a>
 
-Wir versuchen auch auf den meisten Veranstaltungen Essen anzubieten, unser Essensteam zaubert entweder Falafel oder Tostas.
+
+# Food
+
+Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den kleinen und großen Hunger gesorgt.
