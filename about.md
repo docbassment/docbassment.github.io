@@ -17,7 +17,7 @@ Ihr findet uns bei Cassiopeia, Noise Test, vsn & mehr
 * <a href="https://soundcloud.com/klangsuppe">Klangsuppe</a>
 
 # Deko & Licht
-Vera macht Deko und Magic. Folgt ihr alle auf <a href="https://www.instagram.com/vellag96/">Instagram</a>
+Vera macht Deko und Magic.
 
 
 # Food
