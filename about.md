@@ -10,12 +10,12 @@ Verkauf von Musik und Wasser.
 
 Ihr findet uns bei Cassiopeia, Noise Test, vsn & mehr
 
-Unsere Musiker:
+Unsere Artists:
 * <a href="https://soundcloud.com/lumsdnb">lums</a>
 * <a href="https://soundcloud.com/pan_tau">Pan Tau</a>
 * <a href="https://soundcloud.com/feezo_betrugo">Feezo</a>
 * <a href="https://soundcloud.com/palindrum_pnd">Palindrum</a>
-* <a href="https://soundcloud.com/klangsuppe">klangsuppe</a>
+* <a href="https://soundcloud.com/klangsuppe">Klangsuppe</a>
 
 Außerdem legen wir immer viel Wert auf Deko.
 
