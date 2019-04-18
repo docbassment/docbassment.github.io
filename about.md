@@ -23,7 +23,9 @@ Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den klein
 
 <br/>
 <br/>
-> Wir sind die Veranstalter hinter Noise Test, VSN und Teil des Cassiopeia Kollektivs
+```
+Wir sind die Veranstalter hinter Noise Test, VSN und Teil des Cassiopeia Kollektivs
+```
 
 <br/>
 <br/>
