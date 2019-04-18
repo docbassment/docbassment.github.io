@@ -4,7 +4,7 @@ title:     connect
 permalink: /connect/
 ---
 
-Über unseren Email-Verteiler bekommt ihr infos zu allen unseren Events, auch denen, die nicht öffentlich angekündigt werden.
+Über unseren Verteiler bekommt ihr Infos zu allen Events, auch manche, die sonst nicht zu finden sind.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <!--<style type="text/css">

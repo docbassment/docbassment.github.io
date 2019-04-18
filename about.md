@@ -4,24 +4,25 @@ title:     Über uns
 permalink: /about/
 ---
 
-Wir machen und unterstützen kuschelige Events in und um Darmstadt.
-Raumklang, Gestaltung und Essen vereint sich auf unseren Partys zu einem kollektiven Gesamterlebnis, was jedes Mal einzigartig ist.
+Wir machen kuschelige Events in und um Darmstadt.
+Raumklang, Gestaltung und Essen vereint sich auf unseren Partys zu einem kollektiven Gesamterlebnis.
 
-Ihr findet uns bei Cassiopeia, Noise Test, vsn & mehr
-
-# unsere artists:
+# Musik
 * <a href="https://soundcloud.com/lumsdnb">lums</a>
 * <a href="https://soundcloud.com/pan_tau">Pan Tau</a>
 * <a href="https://soundcloud.com/feezo_betrugo">Feezo</a>
 * <a href="https://soundcloud.com/palindrum_pnd">Palindrum</a>
 * <a href="https://soundcloud.com/klangsuppe">Klangsuppe</a>
 
-# deko & Licht
-Wir haben ein liebevolles Dekoteam, dass sich für jede Veranstaltung ein Passendes Ambiente aussucht und umsetzt. Deko hat einen hohen Stellenwert um unsere Parties für euch möglichst schön zu machen.
+# Deko & Licht
+Wir haben ein liebevolles Dekoteam, dass sich für jede Veranstaltung ein Passendes Ambiente aussucht und umsetzt. Deko hat einen hohen Stellenwert bei uns um unsere Events für euch möglichst schön zu machen.
 
 
-# food
+# Food
 Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den kleinen und großen Hunger gesorgt.
+
+
+Wir sind die Veranstalter hinter Noise Test, VSN und Teil des Cassiopeia Kollektivs
 
 <br/>
 <br/>
