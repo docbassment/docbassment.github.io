@@ -26,6 +26,7 @@ Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den klein
 <br/>
 <br/>
 <br/>
+<hr>
 
 <div style="font-size: 2.73em; text-align:center;">
   <a href="https://soundcloud.com/audiovsn">
