@@ -23,12 +23,9 @@ Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den klein
 
 <br/>
 <br/>
-```
-Noise Test, VSN und Cassiopeia
-```
 
-<br/>
-<br/>
+**Noise Test, VSN und Cassiopeia**
+
 <br/>
 <hr>
 
