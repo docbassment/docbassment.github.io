@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<div class="home">
- 
-  <h1>past events</h3>
-    <table class="posts">
-        {% for post in site.posts %}
-        <tr><td><span>{{ post.date | date: site.date_format }}</span></td><td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</td></a></tr>
-        {% endfor %}
-    </table>
+<div class="slideshow">
+ <img src="{{ site.baseurl }}/images/gallery/cassiopeia.png" alt="">
+ <img src="{{ site.baseurl }}/images/gallery/TFF.png" alt="">
+ <img src="{{ site.baseurl }}/images/gallery/pfungstadt.png" alt="">
+ <img src="{{ site.baseurl }}/images/gallery/005.png" alt="">
 </div>

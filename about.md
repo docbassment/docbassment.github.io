@@ -28,15 +28,14 @@ Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den klein
 
 <br/>
 <hr>
-
-<div style="font-size: 2.73em; text-align:center;">
+<div class="footer" style="font-size: 2.73em; text-align:center;">
   <a href="https://soundcloud.com/audiovsn">
-    <i class="fab fa-soundcloud"></i>
+    <i class="fa fa-soundcloud"></i>
   </a>
   <a href="https://instagram.com/audiovsn">
-    <i class="fab fa-instagram"></i>
+    <i class="fa fa-instagram"></i>
   </a>
   <a href="https://facebook.com/audiovsn">
-    <i class="fab fa-facebook"></i>
+    <i class="fa fa-facebook"></i>
   </a>
 </div>
