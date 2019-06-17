@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Wir machen kuschelige Events in und um Darmstadt.
-Raumklang, Gestaltung und Essen vereint sich auf unseren Partys zu einem kollektiven Gesamterlebnis.
+Raumklang, Deko und Essen vereint sich auf unseren Partys zu einem kollektiven Gesamterlebnis.
 
 # Musik
 * <a href="https://soundcloud.com/lumsdnb">lums</a>
