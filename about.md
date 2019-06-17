@@ -14,13 +14,6 @@ Raumklang, Gestaltung und Essen vereint sich auf unseren Partys zu einem kollekt
 * <a href="https://soundcloud.com/palindrum_pnd">Palindrum</a>
 * <a href="https://soundcloud.com/klangsuppe">Klangsuppe</a>
 
-# Deko & Licht
-Wir haben ein liebevolles Dekoteam, dass sich für jede Veranstaltung ein Passendes Ambiente aussucht und umsetzt. Deko hat einen hohen Stellenwert bei uns um unsere Events für euch möglichst schön zu machen.
-
-
-# Food
-Falafel, Tostas und mehr - wenn es die Location erlaubt, ist auch für den kleinen und großen Hunger gesorgt.
-
 <br/>
 <br/>
 
