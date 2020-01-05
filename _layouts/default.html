@@ -3,20 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700" rel="stylesheet">
+	<!-- <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700" rel="stylesheet"> -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
     <title>{{ site.title }}</title>
 </head>
 <body>
     <main>
-        <header class="site-header">
-            <nav class="site-nav">
-                <a href="{{ site.baseurl }}/connect/" class="{% if page.url == '/connect/' %}active{% endif %}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-                <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/icon.png" class="site-titleimg"></img></a>
-                <a href="{{ site.baseurl }}/about/" class="{% if page.url == '/about/' %}active{% endif %}"><i class="fa fa-info-circle" aria-hidden="true"></i></a>
-            </nav>
-        </header>
+
         {{ content }}
       </main>
 </body>
