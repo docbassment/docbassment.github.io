@@ -12,6 +12,7 @@ p {
     word-break: break-word;
 }
 a {
+    font-size: 70%;
     color: $link-color;
     text-decoration: none;
     &:hover {
@@ -121,16 +122,16 @@ hr {
 }
 
 .cb-slideshow h1:nth-child(1) span {
-    background-image: url(../images/gallery/IMG_0703.jpg)
+    background-image: url(../images/vsn6/bg.png)
 }
 
 
 @keyframes imageAnimation {
-    0% { opacity: 0; animation-timing-function: ease-in; }
-    8% { opacity: 1; animation-timing-function: ease-out; }
+    0% { opacity: 0.4; animation-timing-function: ease-in; }
+    8% { opacity: 0.8; animation-timing-function: ease-out; }
     17% { opacity: 1 }
     25% { opacity: 1 }
-    100% { opacity: 0 }
+    100% { opacity: 0.6 }
 }
 
 @keyframes titleAnimation {
@@ -150,4 +151,20 @@ hr {
 }
 @media screen and (max-width: 600px) {
     .cb-slideshow h1 div h3 { font-size: 80px }
+}
+
+.pulse{
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.9);
+    }
+    70% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0.9);
+    }
 }
